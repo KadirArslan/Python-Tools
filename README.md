@@ -1,3 +1,3 @@
 # Python-Tools
 
-##phishing toolu icin bir wordlist gereklidir
+##  phishing toolu icin bir wordlist gereklidir
